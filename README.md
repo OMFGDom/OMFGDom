@@ -9,7 +9,6 @@
 - 🧑‍💻 Full-stack developer with **~5 years** of experience
 - 📰 Building high-load media platforms — from APIs and microservices to admin panels and SSR frontends
 - ⚙️ Search, background processing, data pipelines and analytics
-- 🧠 NLP features for Russian and Kazakh text
 - 📍 Kazakhstan
 
 ## 🛠 Tech Stack

@@ -8,6 +8,7 @@
 
 - 🧑‍💻 Full-stack developer with **~5 years** of experience
 - 📰 Building high-load media platforms — from APIs and microservices to admin panels and SSR frontends
+- 🏢 Built CRM and ERP systems
 - ⚙️ Search, background processing, data pipelines and analytics
 - 📍 Kazakhstan
 
